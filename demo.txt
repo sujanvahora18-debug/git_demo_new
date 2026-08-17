@@ -1,3 +1,1 @@
-Hello Git and GitHub 
-This is my second GitHub change 
-this is my file of git 
+it is my demo project 
